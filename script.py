@@ -1,4 +1,4 @@
-print("Hello Everyone welcome !!!");
+print("Hello Everyone !!!");
 
 a=5;
 b=7;
